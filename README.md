@@ -1,9 +1,9 @@
 # Bank Management System
 This repository contains a bank management system project. C++ sample project.
 
-/*********************************************************************
 
-Login => Admin OR User
+
+Login -> Admin OR User
 
 Admin { User Name - Password - Name - Age - Phone Number
 
@@ -31,5 +31,3 @@ User { User Name - Password - Name - Age - Phone Number - Amount Of Money
     3 - Deposit Money
 
 }
-
-*********************************************************************/
